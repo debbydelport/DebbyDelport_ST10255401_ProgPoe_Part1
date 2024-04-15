@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace DebbyDelport_ST10255401_ProgPoe_Part1
 {
+    //Method for the steps array.
     internal class Step
     {
         public string Description { get; set; }
