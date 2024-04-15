@@ -8,7 +8,7 @@ namespace DebbyDelport_ST10255401_ProgPoe_Part1
 {
     internal class Program
     {
-        //private static Recipe recipe;
+        //Main class calling worker class with all the methods.
         static void Main(string[] args)
         {
             Worker worker = new Worker();
