@@ -80,6 +80,7 @@ namespace DebbyDelport_ST10255401_ProgPoe_Part1
                 recipe.Ingredients[i].Name = Console.ReadLine();
 
                 Console.WriteLine("Quantity: ");
+                Console.WriteLine("Quantity: ");
                 recipe.Ingredients[i].Quantity = double.Parse(Console.ReadLine());
 
                 Console.WriteLine("Unit: ");
