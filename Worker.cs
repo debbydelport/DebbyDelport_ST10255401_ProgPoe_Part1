@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DebbyDelport_ST10255401_ProgPoe_Part1
 {
-    //constructor
+    //Default constructor for the worker class.
     public class Worker
     {
         private static Recipe recipe;
