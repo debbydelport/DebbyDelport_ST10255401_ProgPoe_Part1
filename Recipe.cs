@@ -12,7 +12,7 @@ namespace DebbyDelport_ST10255401_ProgPoe_Part1
         public Ingredient[] Ingredients { get; set; }
         public Step[] Steps { get; set; }
 
-        // variable to track the last scaling factor used
+        // Variable to track the last scaling factor used in the program.
         private double lastScalingFactor = 1;
 
 //********************************************************************************************************************
