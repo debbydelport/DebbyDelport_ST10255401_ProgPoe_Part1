@@ -25,7 +25,7 @@ namespace DebbyDelport_ST10255401_ProgPoe_Part1
                 return;
             }
 
-            // Store the used scaling factor
+            // Store the used scaling factor that the user entered.
             lastScalingFactor = factor;
 
             foreach (Ingredient ingredient in Ingredients)
